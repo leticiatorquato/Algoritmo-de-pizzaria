@@ -1,4 +1,10 @@
+# Algoritmo de pizzaria
+
+# Objetivo
+
 Esse sistema foi criado em Visualg e tem como objetivo permitir o gerenciamento dos pedidos, mesas, funcionários e pagamentos de uma pizzaria garantindo segurança e escalabilidade.
+
+# Instruções 
 
 É necessário seguir esse caminho para que o sistema funcione corretamente:
 
